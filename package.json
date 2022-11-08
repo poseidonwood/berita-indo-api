@@ -4,7 +4,7 @@
   "description": "An api to display news in Indonesia",
   "main": "index.js",
   "scripts": {
-    "dev": "ts-node ./api/server.ts",
+    "start": "ts-node ./api/server.ts",
     "prepare": "husky install",
     "format": "prettier --write ./**/*.ts"
   },
